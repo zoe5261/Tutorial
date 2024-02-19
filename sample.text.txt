@@ -1,3 +1,7 @@
 First Git Commit
 新增一行文字
+<<<<<<< HEAD
 Tutorial commit.
+=======
+Tutorial2 commit.
+>>>>>>> 176833f3c003d1e6b2c8329c4e40337643689e70
