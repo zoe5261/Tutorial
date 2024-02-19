@@ -1,4 +1,12 @@
 First Git Commit
 新增一行文字
+<<<<<<< HEAD
 Tutorial2 commit.
 加入任務功能
+=======
+<<<<<<< HEAD
+Tutorial commit.
+=======
+Tutorial2 commit.
+>>>>>>> 176833f3c003d1e6b2c8329c4e40337643689e70
+>>>>>>> fa9e8a62f5510e05d2256f6757eaca9b20b2eda9
