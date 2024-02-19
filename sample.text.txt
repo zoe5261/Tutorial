@@ -1,3 +1,0 @@
-First Git Commit
-新增一行文字
-Tutorial2 commit.
